@@ -3,17 +3,17 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "프로젝트"
-    url: /categories/프로젝트/
+  - title: "project"
+    url: /categories/project/
 
   - title: "blog"
     url: /categories/blog/
 
-  - title: 업무
-    url: /categories/업무/
+  - title: "task"
+    url: /categories/task/
 
-  - title: "파고다"
-    url: /categories/파고다/
+  - title: "pagoda"
+    url: /categories/pagoda/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

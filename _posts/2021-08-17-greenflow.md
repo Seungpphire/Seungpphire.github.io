@@ -2,7 +2,7 @@
 title:  "[업무] 통신"
 # excerpt: 
 
-categories: 업무
+categories: task
 toc: false
 toc_sticky: false
  

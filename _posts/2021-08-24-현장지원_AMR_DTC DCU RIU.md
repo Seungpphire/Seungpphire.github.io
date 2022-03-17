@@ -2,7 +2,7 @@
 title:  "[프로젝트] DTC DCU RIU"
 # excerpt: 
 
-categories: 프로젝트
+categories: project
 toc: false
 toc_sticky: false
  
