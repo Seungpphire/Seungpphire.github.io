@@ -1,8 +1,8 @@
 ---
-title: "프로젝트"
+title: "task"
 layout: category
-permalink: categories/프로젝트/
+permalink: /categories/task/
 author_profile: true
-# texonomy: 교육
+taxonomy: task # category name
 entries_layout: list # list (default), grid
 ---

@@ -1,8 +1,8 @@
 ---
-title: "blog"
+title: "project"
 layout: category
-permalink: categories/blog/
+permalink: /categories/project/
 author_profile: true
-taxonomy: blog # category name
+texonomy: project
 entries_layout: list # list (default), grid
 ---
