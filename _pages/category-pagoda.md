@@ -1,6 +1,6 @@
 ---
 title: "pagoda"
-layout: category
+layout: categories
 permalink: categories/pagoda/
 author_profile: true
 taxonomy: pagoda # category name

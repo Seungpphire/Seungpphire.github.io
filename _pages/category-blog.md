@@ -1,6 +1,6 @@
 ---
 title: "blog"
-layout: category
+layout: categories
 permalink: /categories/blog/
 author_profile: true
 taxonomy: blog # category name
