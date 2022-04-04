@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: PARKPROMOTION
 # Description of the Site
-description: I wish that I could be like the cool kids
+description: I think the universe is on my side
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -27,7 +27,7 @@ facebook_username: thedevslot
 twitter_username: thedevslot
 instagram_username: thedevslot
 linkedin_username: thedevslot
-github_username:  thedevslot
+github_username:  Seungpphire
 youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
 reddit_username: /
 behance_username: /
@@ -38,16 +38,16 @@ spotify_username: /
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: 
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: SEUNGJIN PARK
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://user-images.githubusercontent.com/82863114/161470517-e3fd2479-9aef-43d8-9b06-751c1cabd24b.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: I have been working for Daesung Measuring Co., Ltd. since 2019. I received a bachelor's degree in electronic engineering from Seoul National University of Science and Technology in 2019. I am interested in developing Windows application software and have experience in two projects related to it.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/Seungpphire/Seungpphire.github.io
 
 # SASS
 sass:
