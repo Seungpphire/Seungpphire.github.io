@@ -1,5 +1,5 @@
 ---
-title: 1. Github Page 이미지 삽입하기
+title: Github Page 이미지 삽입하기
 layout: post
 post-image: /assets/images/github.JPG
 description: Jekyll is a static site generator. You give it text written in your favorite

@@ -1,5 +1,5 @@
 ---
-title: 4. Github Page 검색엔진 등록하기
+title: Github Page 검색엔진 등록하기
 layout: post
 post-image: /assets/images/github.JPG
 description: Jekyll is a static site generator. You give it text written in your favorite
