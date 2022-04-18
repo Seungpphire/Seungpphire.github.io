@@ -1,7 +1,7 @@
 ---
 title: 토이프로젝트 시작하기-출결관리시스템
 layout: post
-post-image: /assets/images/toy.jpg
+post-image: /assets/images/toy.JPG
 description: 카카오 Developer를 이용한 출결알림시스템 개발 토이프로젝트
 tags:
 - how to

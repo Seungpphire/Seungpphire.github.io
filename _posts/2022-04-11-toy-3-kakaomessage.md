@@ -1,7 +1,7 @@
 ---
 title: 토이프로젝트 시작하기-출결관리시스템-카카오톡 나에게 메세지 보내기 계속
 layout: post
-post-image: /assets/images/toy.jpg
+post-image: /assets/images/toy.JPG
 description: 카카오 Developer를 이용한 출결알림시스템 개발 토이프로젝트
 tags:
 - how to
@@ -243,6 +243,9 @@ namespace sol_program
 }
 
 ```
+여기까지 Json을 읽어들이고 표현해봤다면 이제는 카카오 API를 이용해보도록 하자.
+
+
 ---
 **Reference**
 * <ref>https://developers.kakao.com/product/message</ref>
